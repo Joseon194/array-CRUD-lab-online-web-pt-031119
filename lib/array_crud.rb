@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array = ["France", "Germany", "Russia", "England"]
-  array.push("Austria")
+  array << "Austria"
   puts array.inspect
 end
 
