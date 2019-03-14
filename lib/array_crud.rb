@@ -1,13 +1,13 @@
 def create_an_empty_array
-  
+  empty_array = []
 end
 
 def create_an_array
-  
+  euro_countries = [France, Germany, Austria]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  eur
 end
 
 def add_element_to_start_of_array(array, element)
